@@ -1,7 +1,7 @@
 #include <Wire.h> //Include the Wire library
 #include <MMA_7455.h> //Include the MMA_7455 library
 /*
-in2 = 9
+in2 = 8  
 SDA = A4
 SCL = A5
 */
